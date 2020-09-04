@@ -1,5 +1,4 @@
-
-
+# Sedat Öztep tarafından yazılmıştır.
 
 
 try:
@@ -171,5 +170,6 @@ if __name__ == '__main__':
     window = Window()
     window.mainloop()
 
+#instagram dan python.ogreniyorum'u takip etmeyi unutmayınız
 
 
